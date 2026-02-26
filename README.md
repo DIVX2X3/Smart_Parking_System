@@ -47,8 +47,4 @@ When a vehicle arrives, the system automatically assigns the closest available s
 ---
 
 ## Author
-divyansh negi   
-
-
-
-content for you readme.md
+Divyansh Negi   
